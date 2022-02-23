@@ -2,6 +2,12 @@
 
 Shoppr is an e-commerce app build in Flutter (an open source framework by Google). This app contains many screens (listed below) for a production ready e-commerce applications. 
 
+[Buy it on Gumroad](https://vigowebs.gumroad.com/l/shoppr-flutter)
+
+![Cover Image](flutter-cover-01.png)
+![Cover Image 2](flutter-cover-02.png)
+![Cover Image 3](flutter-cover-03.png)
+
 ## App Features
 
 * Build with latest version of Flutter and Dart
@@ -14,8 +20,10 @@ Shoppr is an e-commerce app build in Flutter (an open source framework by Google
 * Free icons
 
 ## Screenshots
+![Screemshots](flutterr-screenshots-light.png)
 
 ## Dark Theme:
+![Screemshots](flutter-screenshots-dark.png)
 
 ## Included Screens
 
@@ -64,3 +72,7 @@ Sources
 * Icons
 
 For more information about the app, read the README.md file inside the app folder.
+
+![Thumbnail](flutter-thumbnail.png)
+
+[Buy it on Gumroad](https://vigowebs.gumroad.com/l/shoppr-flutter)
